@@ -9,7 +9,11 @@ function App() {
       <SearchEngine />
       <p>
         {" "}
-        <a href="https://github.com/aga-92/weather-react" target="_blank">
+        <a
+          href="https://github.com/aga-92/weather-react"
+          target="_blank"
+          rel="noreferrer"
+        >
           Open-source code
         </a>
         , by Aga Jackiewicz
