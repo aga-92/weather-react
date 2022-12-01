@@ -7,6 +7,13 @@ function App() {
     <div className="App">
       <h1>Weather App</h1>
       <SearchEngine />
+      <p>
+        {" "}
+        <a href="https://github.com/aga-92/weather-react" target="_blank">
+          Open-source code
+        </a>
+        , by Aga Jackiewicz
+      </p>
     </div>
   );
 }
